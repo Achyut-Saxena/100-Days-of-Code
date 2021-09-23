@@ -57,3 +57,14 @@ Output: 10 5
 Example 1:
 Input: N = 4
 Output: 5
+
+* **Check Tree Traversal** : Given Preorder, Inorder and Postorder traversals of some tree of size N. The task is to check if they are all of the same tree or not.
+
+Example 1:
+
+Input:
+N = 5
+preorder[] = {1, 2, 4, 5, 3}
+inorder[] = {4, 2, 5, 1, 3}
+postorder[] = {4, 5, 2, 3, 1}
+Output: Yes
