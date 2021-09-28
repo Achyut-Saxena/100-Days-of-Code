@@ -59,9 +59,7 @@ Input: N = 4
 Output: 5
 
 10. **Check Tree Traversal** : Given Preorder, Inorder and Postorder traversals of some tree of size N. The task is to check if they are all of the same tree or not.
-
 Example 1:
-
 Input:
 N = 5
 preorder[] = {1, 2, 4, 5, 3}
@@ -88,3 +86,9 @@ Input:
 N = 8
 A[] = {15,-2,2,-8,1,7,10,23}
 Output: 5
+
+14. **Sort a Stack** : Given a stack, the task is to sort it such that the top of the stack has the greatest element.
+Example 1:
+Input:
+Stack: 3 2 1
+Output: 3 2 1
