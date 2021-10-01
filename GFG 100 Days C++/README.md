@@ -101,28 +101,10 @@ Output: 2
 
 16. **Vertical Travesal of Binary Tree** : Given a Binary Tree, find the vertical traversal of it starting from the leftmost level to the rightmost level.
 If there are multiple nodes passing through a vertical line, then they should be printed as they appear in level order traversal of the tree.
-Example:
-Input:
-           1
-         /   \
-       2       3
-     /   \   /   \
-   4      5 6      7
-              \      \
-               8      9           
-Output: 
-4 2 1 5 6 3 8 7 9 
 
 17. **Check for BST** : Given the root of a binary tree. Check whether it is a BST or not.
 Note: We are considering that BSTs can not contain duplicate Nodes.
 A BST is defined as follows:
-
 The left subtree of a node contains only nodes with keys less than the node's key.
 The right subtree of a node contains only nodes with keys greater than the node's key.
 Both the left and right subtrees must also be binary search trees.
-Example:
-Input:
-   2
- /    \
-1      3
-Output: 1 
